@@ -1,4 +1,4 @@
-react-redux-boilderplate
+#react-redux-boilderplate
 
 ###Getting Started###
 
@@ -12,7 +12,8 @@ Checkout this repo, install dependencies, start server
 ```
 
 Access your application using eithr of following urls
-http://localhost:8081
-htts://<your_ip>:8081
+
+* http://localhost:8081
+* htts://your_ip:8081
 
 
